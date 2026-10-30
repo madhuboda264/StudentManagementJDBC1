@@ -1,0 +1,6 @@
+com\example\studentmanagement\dao\StudentManagementDao.class
+com\example\studentmanagement\model\Course.class
+com\example\studentmanagement\model\Student.class
+com\example\studentmanagement\config\Database.class
+com\example\studentmanagement\app\StudentManagementApp.class
+com\example\studentmanagement\model\Enrollment.class
